@@ -3,7 +3,7 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY =`${process.env.APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
+ title: '月の書架 ☆ セラ',
   description: '',
   copyright: '',
   privacy_policy: '',
