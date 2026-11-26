@@ -89,3 +89,10 @@
 .textArea:focus+div .sendBtn {
   background-image: url(./icons/send-active.svg);
 }
+.chatBackground {
+  background-image: url('../../../月夜の幻想図書館.png');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
