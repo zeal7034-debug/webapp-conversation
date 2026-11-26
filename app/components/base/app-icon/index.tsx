@@ -28,11 +28,7 @@ const AppIcon: FC<AppIconProps> = ({
         background,
       }}
     >
-      <img
-  src="https://raw.githubusercontent.com/zeal7034-debug/webapp-conversation/main/app/components/chat/answer/icons/%E6%9C%88%E5%A4%9C%E3%81%AE%E7%B4%AB%E6%99%B6%E5%8D%A0%E3%81%84%E5%B8%AB.png"="/月夜の紫晶占い師.png"
-  alt="セラ"
-  className="w-full h-full object-cover rounded-full"
-/>
+     <img src="https://raw.githubusercontent.com/zeal7034-debug/webapp-conversation/main/app/components/chat/answer/icons/%E6%9C%88%E5%A4%9C%E3%81%AE%E7%B4%AB%E6%99%B6%E5%8D%A0%E3%81%84%E5%B8%AB.png" alt="セラ" className="w-full h-full object-cover rounded-full" />
     </span>
   )
 }
