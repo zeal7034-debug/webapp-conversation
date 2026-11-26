@@ -1,4 +1,7 @@
-background: url('./answer/icons/月夜の紫晶占い師.png') center center / contain no-repeat;
+.answerIcon {
+  position: relative;
+  background: url('./answer/icons/月夜の紫晶占い師.png') center center / contain no-repeat;
+}
 
 .typeingIcon {
   position: absolute;
