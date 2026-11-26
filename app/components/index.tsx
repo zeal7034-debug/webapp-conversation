@@ -671,7 +671,16 @@ const Main: FC<IMainProps> = () => {
           </div>
         )}
         {/* main */}
-        <div className='flex-grow flex flex-col h-[calc(100vh_-_3rem)] overflow-y-auto'>
+       <div
+  className='flex-grow flex flex-col h-[calc(100vh_-_3rem)] overflow-y-auto'
+  style={{
+    backgroundImage: "url('https://raw.githubusercontent.com/zeal7034-debug/webapp-conversation/main/%E6%9C%88%E5%A4%9C%E3%81%AE%E5%B9%BB%E6%83%B3%E5%9B%B3%E6%9B%B8%E9%A4%A8.png')",
+    backgroundSize: 'cover',
+    backgroundPosition: 'center',
+    backgroundRepeat: 'no-repeat',
+    backgroundAttachment: 'fixed',
+  }}
+>
           <ConfigSence
             conversationName={conversationName}
             hasSetInputs={hasSetInputs}
