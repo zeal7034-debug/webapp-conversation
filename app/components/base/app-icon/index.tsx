@@ -26,7 +26,7 @@ const AppIcon: FC<AppIconProps> = ({
       )}
      style={{
   background,
-  backgroundImage: "url('https://raw.githubusercontent.com/zeal7034-debug/webapp-conversation/main/app/components/chat/answer/icons/%E6%9C%88%E5%A4%9C%E3%81%AE%E7%B4%AB%E6%99%B6%E5%8D%A0%E3%81%84%E5%B8%AB.png')",
+ backgroundImage: "url('https://raw.githubusercontent.com/zeal7034-debug/webapp-conversation/main/app/components/chat/icons/%E6%9C%88%E5%A4%9C%E3%81%AE%E7%B4%AB%E6%99%B6%E5%8D%A0%E3%81%84%E5%B8%AB.png')",
   backgroundSize: 'cover',
   backgroundPosition: 'center',
   backgroundRepeat: 'no-repeat',
